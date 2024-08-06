@@ -1,6 +1,4 @@
 Once upon a time, in a town named "Init".
 Git was well-known for his curiosity and eagerness to learn.
-if we are at git we can have good points
-Git is done
 He had one dream - to explore the mysterious world of Version Control.
 All things done.
