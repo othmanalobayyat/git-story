@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Chapter 2: Git's Decision
+=======
+Chapter 1: Start of Git's
+Chapter 3: Git's Decision to contemplation
+>>>>>>> d365f8c (test 2 conflicts solution)
 Git, after much contemplation, decided to leave his home in Init to explore the vast world of Version Control.
 His family and friends gathered to bid him farewell. It was an emotional moment, but Git was determined.
